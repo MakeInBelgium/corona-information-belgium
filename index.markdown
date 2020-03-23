@@ -28,6 +28,5 @@ th, td {
 </tr>
 {% endfor %}
 
-<p>Deze informatie is afkomstig van <a href="https://www.integratie-inburgering.be/corona-meertalige-info">Agentschap Integratie en Inburgering</a>, en voorziet enkel in een alternatieve weergave.
-
 </table>
+<p>Deze informatie is afkomstig van <a href="https://www.integratie-inburgering.be/corona-meertalige-info">Agentschap Integratie en Inburgering</a>, en voorziet enkel in een alternatieve weergave.
