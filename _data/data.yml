@@ -1,0 +1,218 @@
+- taal: Albanees
+  abbrevation: SQ
+  language: Shqip
+  prevention:
+    phrase:
+    url:
+  measures:
+    name: KORONAVIRUSIN
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_albanees.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Albanees.mp3
+
+- taal: Arabisch
+  abbrevation: AR"
+  language: العربية
+  prevention:
+    phrase: كورون
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche-Corona-HoeBesmettingVoorkomen-Nederlands-Arabisch_2.pdf
+  measures:
+    name: "لفيروس التاجي"
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_arabisch.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Arabisch.mp3
+
+- taal: Bosnisch-Servisch-Kroatisch
+  abbreviation: BSK
+  language:
+  prevention:
+    phrase: Kako možete spriječiti infekciju?
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/17291951_Coronavirus_A3-affiche_Bosnisch-Servisch-Kroatisch%20-%20BSK.pdf
+  measures:
+    name:
+    pdf:
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Kroatisch.mp3
+
+- taal: Bulgaars
+  abbrevation: BG
+  language: български език
+  prevention:
+    phrase: Как да предотвартиш заразяване?
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche-Corona-HoeBesmettingVoorkomen-Nederlands-Bulgaars.pdf
+  measures:
+    name: КОРОНАВИРУС
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_BG%20%281%29.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Bulgaars.mp3
+
+- taal: Chinees
+  abbrevation: CN
+  language: 中文 (Zhōngwén)
+  prevention:
+    phrase:
+    url:
+  measures:
+    name: CORONAVIRUS
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_chinees.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Chinees.mp3
+
+- taal: Dari
+  abbreviation: DA
+  language: دری
+  prevention:
+    phrase:
+    url:
+  measures:
+    name: CORONA
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_dari.pdf
+
+- taal: Duits
+  abbreviation: DE
+  language: Deutsch
+  prevention:
+    phrase: Wie können Sie eine Infektion verhindern?
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche-Corona-HoeBesmettingVoorkomen-Nederlands-Duits.pdf
+  measures:
+    name: CORONAVIRUS
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_duits.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Duits.mp3
+
+- taal: Engels
+  abbreviation: EN
+  language: English
+  prevention:
+    phrase: How can you prevent infection?
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche-Corona-HoeBesmettingVoorkomen-Nederlands-Engels.pdf
+  measures:
+    name: CORONAVIRUS
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_EN%20%281%29.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Engels.mp3
+
+- taal: Farsi
+  abbreviation: FA
+  language: پارسی
+  prevention:
+    phrase:
+    url:
+  measures:
+    name: CORONA
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_farsi.pdf
+    audio:
+
+- taal: Frans
+  abbreviation: FR
+  language: français
+  prevention:
+    phrase: Comment prévenir l’infection ?
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche-Corona-HoeBesmettingVoorkomen-Nederlands-Frans.pdf
+  measures:
+    name: CORONAVIRUS
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_FR%20%281%29.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Frans.mp3
+
+- taal: Hebreeuws
+  abbreviation: HE
+  language: עברית
+  prevention:
+    phrase:
+    url:
+  measures:
+    name: קורונה
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/17291951_Coronavirus_A3_joodse_gemeenschap_%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Hebreeuws.mp3
+
+- taal: Nederlands
+  abbreviation: NL
+  language: Nederlands
+  prevention:
+    phrase:
+    url:
+  measures:
+    name: CORONAVIRUS
+    pdf:
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Nederlands.mp3
+
+- taal: Italiaans
+  abbreviation: IT
+  language: Italiano
+  prevention:
+    phrase:
+    url:
+  measures:
+    name: קורונה
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_italiaans.pdf
+    audio:
+
+- taal: Pashto
+  abbreviation: PS
+  language: پښتو
+  prevention:
+    phrase:
+    url:
+  measures:
+    name: CORONAVIRUS
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_pasjtoe.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Pashto.mp3
+
+- taal: Pools
+  abbreviation: PL
+  language: język polski
+  prevention:
+    phrase: Jak można zapobiec infekcji?
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche-Corona-HoeBesmettingVoorkomen-Nederlands-Pools.pdf
+  measures:
+    name: KORONAWIRUS
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_PL%20%281%29.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Pools.mp3
+
+- taal: Roemeens
+  abbreviation: RO
+  language: Română
+  prevention:
+    phrase: Cum poţi evita infectarea cu Coronavirus
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche-Corona-HoeBesmettingVoorkomen-Nederlands-Roemeens.pdf
+  measures:
+    name: CORONAVIRUSUL
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_ROE.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Roemeens.mp3
+
+- taal: Russisch
+  abbreviation: RU
+  language: русский
+  prevention:
+    phrase: Меры предосторожности для защиты от инфекции
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche-Corona-HoeBesmettingVoorkomen-Nederlands-Russisch.pdf
+  measures:
+    name: КОРОНАВИРУСНАЯ ИНФЕКЦИЯ
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_russisch.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Russisch.mp3
+
+- taal: Somali
+  abbreviation: SO
+  language: Soomaaliga
+  prevention:
+    phrase:
+    url:
+  measures:
+    name: CORONA
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_somali.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Somali.mp3
+
+- taal: Spaans
+  abbreviation: ES
+  language: Español
+  prevention:
+    phrase: ¿Cómo se puede prevenir la infección?
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/17291951_Coronavirus_A3_voorkomen_ES_aangepast.pdf
+  measures:
+    name: CORONAVIRUS
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_ES%20%281%29_0.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Spaans.mp3
+
+- taal: Turks
+  abbreviation: TR
+  language: Türkçe
+  prevention:
+    phrase: Enfeksiyonu nasıl önleyebilirsiniz?
+    url: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche-Corona-HoeBesmettingVoorkomen-Nederlands-Turks.pdf
+  measures:
+    name: KORONAVIRÜS
+    pdf: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Affiche_maatregelen1803_TURKS%20%281%29.pdf
+    audio: https://www.integratie-inburgering.be/sites/default/files/atoms/files/Corona-Maatregelen-18-Maart-Turks.mp3
